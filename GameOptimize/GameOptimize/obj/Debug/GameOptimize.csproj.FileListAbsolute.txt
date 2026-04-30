@@ -1,6 +1,0 @@
-C:\Users\user\Desktop\코드\C#\GameOptimize\GameOptimize\bin\Debug\GameOptimize.exe
-C:\Users\user\Desktop\코드\C#\GameOptimize\GameOptimize\bin\Debug\GameOptimize.pdb
-C:\Users\user\Desktop\코드\C#\GameOptimize\GameOptimize\obj\Debug\GameOptimize.csproj.AssemblyReference.cache
-C:\Users\user\Desktop\코드\C#\GameOptimize\GameOptimize\obj\Debug\GameOptimize.csproj.CoreCompileInputs.cache
-C:\Users\user\Desktop\코드\C#\GameOptimize\GameOptimize\obj\Debug\GameOptimize.exe
-C:\Users\user\Desktop\코드\C#\GameOptimize\GameOptimize\obj\Debug\GameOptimize.pdb
