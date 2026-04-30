@@ -1,8 +1,11 @@
-GameOptimizeInstaller\GameOptimizeInstaller\bin
-GameOptimizeInstaller\GameOptimizeInstaller\obj
+# 모든 폴더 내의 bin, obj 폴더 통째로 무시
+**/bin/
+**/obj/
 
+# 특정 실행 파일 무시
+GameOptimizeUpdater/src/main.exe
 
-GameOptimize\GameOptimize\bin
-GameOptimize\GameOptimize\obj
-
-GameOptimizeUpdater\src\main.exe
+# (추가 추천) Rider/VS 설정 파일들
+.idea/
+.vs/
+*.user
