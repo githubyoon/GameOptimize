@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\코드\C#\GameOptimizeInstaller\GameOptimizeInstaller\obj\Debug\net10.0\GameOptimizeInstaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\코드\C#\GameOptimizeInstaller\GameOptimizeInstaller\obj\Debug\net10.0\GameOptimizeInstaller.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\코드\C#\GameOptimizeInstaller\GameOptimizeInstaller\obj\Debug\net10.0\GameOptimizeInstaller.AssemblyInfo.cs
+C:\Users\user\Desktop\코드\C#\GameOptimizeInstaller\GameOptimizeInstaller\obj\Debug\net10.0\GameOptimizeInstaller.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\코드\C#\GameOptimizeInstaller\GameOptimizeInstaller\bin\Debug\net10.0\GameOptimizeInstaller.exe
+C:\Users\user\Desktop\코드\C#\GameOptimizeInstaller\GameOptimizeInstaller\bin\Debug\net10.0\GameOptimizeInstaller.deps.json
+C:\Users\user\Desktop\코드\C#\GameOptimizeInstaller\GameOptimizeInstaller\bin\Debug\net10.0\GameOptimizeInstaller.runtimeconfig.json
+C:\Users\user\Desktop\코드\C#\GameOptimizeInstaller\GameOptimizeInstaller\bin\Debug\net10.0\GameOptimizeInstaller.dll
+C:\Users\user\Desktop\코드\C#\GameOptimizeInstaller\GameOptimizeInstaller\bin\Debug\net10.0\GameOptimizeInstaller.pdb
+C:\Users\user\Desktop\코드\C#\GameOptimizeInstaller\GameOptimizeInstaller\obj\Debug\net10.0\GameOptimizeInstaller.dll
+C:\Users\user\Desktop\코드\C#\GameOptimizeInstaller\GameOptimizeInstaller\obj\Debug\net10.0\refint\GameOptimizeInstaller.dll
+C:\Users\user\Desktop\코드\C#\GameOptimizeInstaller\GameOptimizeInstaller\obj\Debug\net10.0\GameOptimizeInstaller.pdb
+C:\Users\user\Desktop\코드\C#\GameOptimizeInstaller\GameOptimizeInstaller\obj\Debug\net10.0\GameOptimizeInstaller.genruntimeconfig.cache
+C:\Users\user\Desktop\코드\C#\GameOptimizeInstaller\GameOptimizeInstaller\obj\Debug\net10.0\ref\GameOptimizeInstaller.dll
