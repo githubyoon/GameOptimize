@@ -1,6 +1,8 @@
-**/bin/
-**/obj/
+GameOptimizeInstaller\GameOptimizeInstaller\bin
+GameOptimizeInstaller\GameOptimizeInstaller\obj
 
-.idea/
-.vs/
-*.user
+
+GameOptimize\GameOptimize\bin
+GameOptimize\GameOptimize\obj
+
+GameOptimizeUpdater\src\main.exe
